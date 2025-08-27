@@ -1,14 +1,14 @@
-# rt-hekar_Tanbir-
+#install termux
 
 
 
 
-pkg update
-pkg install python
-pkg install clang
-pkg install libx11
-pkg install libxft
-pkg install libxext
-pkg install python-tk
+##pkg update
+##pkg install python
+##pkg install clang
+##pkg install libx11
+##pkg install libxft
+##pkg install libxext
+##pkg install python-tk
 
 
